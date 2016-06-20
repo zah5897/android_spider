@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+   <string name="app_name">晧奇蜘蛛</string>
+    <string name="setting">设置</string>
+    <string name="setting_network">网络设置</string>
+    <string name="wifi_only">仅WIFI网络环境下采集</string>
+
+</resources>
